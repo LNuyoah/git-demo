@@ -3,3 +3,4 @@ hello zhou ge! 9900
 hello zhou ge!
 hello zhou ge!
 hello zhou ge! master test
+hello zhou ge! hot-fix test
